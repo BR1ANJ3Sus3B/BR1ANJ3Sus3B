@@ -107,7 +107,7 @@ Para crear tu primer  repositario de Github deberas:
 1-. Contar un cyenta de Github.
 2-. Dar click en el boton :**nuevo Repositorio 
 3-.Asignar un Nombre a tu reporitario, por ejemplo : *practica03-3b*
-4-., Asignar un nivel de privacidad entre 
+4-. Asignar un nivel de privacidad entre 
 - **Publico :** Si quiere que este disponible para todos los usuarios .
 - **Privado :** si desa que solo a quien tu decidas puedan y colaborar con tu proyecto .
 - 5.Definir si incluye un archivo de descripcion llamado : *README.md*
@@ -124,5 +124,5 @@ Pero si deseamos poner solo las ligas directas o un correo electronico podemos  
 **Ejemplo**
 Documentacion creada por : **T.S.U.Brian Jesus Mendoza Marquez** 
 <230308@utxicotepec.edu.mx>
-**<http://virtual.utxicotepec.edu.mx/>**
+<http://virtual.utxicotepec.edu.mx/>
 ![](https://github.com/BR1ANJ3Sus3B/BR1ANJ3Sus3B/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
