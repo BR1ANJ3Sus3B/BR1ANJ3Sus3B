@@ -126,3 +126,4 @@ Documentacion creada por : **T.S.U.Brian Jesus Mendoza Marquez**
 <230308@utxicotepec.edu.mx>
 <http://virtual.utxicotepec.edu.mx/>
 ![](https://github.com/BR1ANJ3Sus3B/BR1ANJ3Sus3B/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
+![](https://github.com/BR1ANJ3Sus3B/BR1ANJ3Sus3B/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.39%20PM.jpeg)
