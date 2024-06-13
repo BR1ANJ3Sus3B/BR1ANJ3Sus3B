@@ -123,9 +123,13 @@ Pero si deseamos poner solo las ligas directas o un correo electronico podemos  
 
 **Ejemplo**
 Documentacion creada por : **T.S.U.Brian Jesus Mendoza Marquez** 
-<230308@utxicotepec.edu.mx>
+<230308@utxicotepec.edu.mx> 
+
 <http://virtual.utxicotepec.edu.mx/>
+
 ### 8. Ingreso de imagenes (Hipervinculos)
 Ingresamos como meter una imagen necesitamos poder meterno code y donde dice Add file flecha abajo y ponemos Upload files arrastramos una imagen copiamos el link de nuestra imagen y  ocupamos los siguiente simbolos ![]( link de la imagen )
+
 ![](https://github.com/BR1ANJ3Sus3B/BR1ANJ3Sus3B/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
+
 ![](https://github.com/BR1ANJ3Sus3B/BR1ANJ3Sus3B/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.39%20PM.jpeg)
