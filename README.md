@@ -133,4 +133,91 @@ Documentacion creada por : **T.S.U.Brian Jesus Mendoza Marquez**
 
 ![](https://github.com/BR1ANJ3Sus3B/BR1ANJ3Sus3B/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
 
-![](https://github.com/BR1ANJ3Sus3B/BR1ANJ3Sus3B/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.39%20PM.jpeg)
+![](https://github.com/BR1ANJ3Sus3B/BR1ANJ3Sus3B/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.39%20PM.jpeg).
+
+
+*** 9. Tablas (TABLES)
+Sila documentación lo requiere podemos presentar información en formato de tablas con filas y 
+columnas, para maquetarlas podemos utilizar el carácter \| para delimitar las columnas y \- para
+delimitar las filas.
+
+
+**EJEMPLO:**
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
+|-------------|---------------|--------------|---------------|
+| Fila 1 celda 1| Fila 1 celda 2| Fila 1 celda 3| Fila 1 celda 4|
+| Fila 2 celda 1| Fila 2 celda 2| Fila 2 celda 3| Fila 2 celda 4|
+| Fila 3 celda 1| Fila 3 celda 2| Fila 3 celda 3| Fila 3 celda 4|
+
+En caso de necesitar  la fusión de celdas en columnas usaremos la propiedad *colspan* del tag \<td> y 
+en el caso de necesitar la fusión de filas utilizaremos la propiedad *rowspan*.
+
+**EJEMPLO:**
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
+|-------------|---------------|--------------|---------------|
+| Fila 1 celda 1| Fila 1 celda 2| Fila 1 celda 3| Fila 1 celda 4|
+| Fila 2 celda 1 <td colspan=2>  Fila 2 celda 2| Fila 2 celda 3|
+| Fila 3 celda 1| Fila 3 celda 2| Fila 3 celda 3| Fila 3 celda 4|
+|               | Fila 4 celda 2| Fila 4 celda 3| Fila 4 celda 4|
+|               | Fila 5 celda 2| Fila 5 celda 3| Fila 5 celda 4|
+| Fila 6 celda 1| Fila 6 celda 2| Fila 6 celda 3| Fila 6 celda 4|
+
+
+Dado que el ejemplo pasando usando solo markdown no se puede realizar la fusion de filas debemos
+utilizar el estandar de HTML usando los tags: \<tr> para las filas y <td> 
+para las celdas, y en ellos utilizar la propiedad de *colspan* y *rowspan*
+
+
+**EJEMPLO:**
+
+<table>
+<tr>
+<th>Encabezado 1</th>
+<th>Encabezado 2</th>
+<th>Encabezado 3</th>
+<th>Encabezado 4</th>
+<tr/>
+
+<tr>
+<td>Fila 1 celda 1</td>
+<td>Fila 1 celda 2</td>
+<td>Fila 1 celda 3</td>
+<td>Fila 1 celda 4</td>
+<tr/>
+
+<tr>
+<td>Fila 2 celda 1</td>
+<td colspan=3 align="center">Fila 2 celda 2</td>
+<tr/>
+
+<tr>
+<td rowspan=3>Fila 3 celda 1</td>
+<td>Fila 3 celda 2</td>
+<td>Fila 3 celda 3</td>
+<td>Fila 3 celda 4</td>
+<tr/>
+
+
+<tr>
+<td>Fila 4 celda 2</td>
+<td>Fila 4 celda 3</td>
+<td>Fila 4 celda 4</td>
+<tr/>
+
+<tr>
+<td>Fila 5 celda 2</td>
+<td>Fila 5 celda 3</td>
+<td>Fila 5 celda 4</td>
+<tr/>
+
+
+<tr>
+<td>Fila 6 celda 1</td>
+<td>Fila 6 celda 2</td>
+<td>Fila 6 celda 3</td>
+<td>Fila 6 celda 4</td>
+<tr/>
+
+</table>
