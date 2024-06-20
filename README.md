@@ -127,7 +127,7 @@ Documentacion creada por : **T.S.U.Brian Jesus Mendoza Marquez**
 
 <http://virtual.utxicotepec.edu.mx/>
 
-### 8. Ingreso de imágenes (Hipervínculos)
+**Tarea imágenes (Hipervínculos)
 ¡Como insertar una imagen hipervínculos necesitamos poder meternos code y donde dice Add file flecha abajo y ponemos Upload files arrastramos una imagen copeamos el link de nuestra imagen y ocupamos los siguientes símbolos! [] (link de la imagen)
 
 
