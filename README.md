@@ -136,7 +136,7 @@ Documentacion creada por : **T.S.U.Brian Jesus Mendoza Marquez**
 ![](https://github.com/BR1ANJ3Sus3B/BR1ANJ3Sus3B/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.39%20PM.jpeg).
 
 
-*** 9. Tablas (TABLES)
+*** 8. Tablas (TABLES)
 Sila documentación lo requiere podemos presentar información en formato de tablas con filas y 
 columnas, para maquetarlas podemos utilizar el carácter \| para delimitar las columnas y \- para
 delimitar las filas.
@@ -228,4 +228,4 @@ Si la documentación requiere de incorporar imágenes, esquemas, modelos, fotogr
 
 ## Ejemplo: ##
 
-![Logogit](git.jpg)
+![](https://github.com/BR1ANJ3Sus3B/BR1ANJ3Sus3B/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
